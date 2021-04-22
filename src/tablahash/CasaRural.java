@@ -5,10 +5,7 @@
  */
 package tablahash;
 import java.io.*;
-/**
- *
- * @author ivan
- */
+
 public class CasaRural {
     private String codigo;
     private String poblacion;

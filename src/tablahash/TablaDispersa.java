@@ -5,10 +5,6 @@
 */
 package tablahash;
 
-/**
- *
- * @author ivan
- */
 public class TablaDispersa {
     
     static final int TAMTABLA = 101;
